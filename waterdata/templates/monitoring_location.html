@@ -29,6 +29,11 @@
             </tbody>
             </table>
 
+            <div>
+                <label>Text input</label>
+                <input type="text" name="input-text" />
+            </div>
+
         {% else %}
             <h1>Error: HTTP {{ status_code }} -- {{ reason }}</h1>
         {% endif %}
