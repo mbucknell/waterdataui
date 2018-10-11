@@ -74,7 +74,7 @@
     "npm-run-all": "^4.1.2",
     "postcss-cli": "^5.0.0",
     "proxyquireify": "^3.2.1",
-    "tinyify": "^2.4.0",
+    "tinyify": "^2.4.3",
     "uglify-js": "^3.3.23",
     "uglifycss": "0.0.29",
     "watchify": "^3.11.0"
